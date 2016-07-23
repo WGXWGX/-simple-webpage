@@ -1,0 +1,237 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+ol,ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+img{
+	border: 0;
+}
+/******************header开始******************/
+#header{
+	height: 76px;
+}
+#header .wrapper{
+	height: 76px;
+}
+#logo{
+	margin-top: 10px;
+	float: left;
+}
+/******************header结束******************/
+/******************banner开始******************/
+#banner{
+	height: 453px;
+	background: url(../img/banner01.jpg) no-repeat center center;
+
+}
+.wrapper{
+	width: 1172px;
+	/*background: green;*/
+	margin: 0 auto;
+}
+#nav li{
+	float: left;
+	height: 36px;
+	width: 90px;
+}
+#nav{
+	float: right;
+	width:450px;
+	margin-top: 20px;
+}
+#nav a{
+	display: block;
+	height: 36px;
+	width: 90px;
+	text-align: center;
+	line-height: 36px;
+	font:12px/36px Tahoma,Verdana,Arial,宋体;
+	color: #000;
+}
+#nav a:hover{
+	color: red;
+}
+/******************banner结束******************/
+
+
+/******************footer开始******************/
+#footer{
+	height:122px;
+	background:#414B4A;
+	padding-top: 15px;
+}
+#first-line{
+	height: 27px;
+	text-align: center;
+	line-height: 27px;
+	font-size: 15px;
+	color: #fff;
+}
+#footer-phone{
+	text-align: center;
+	line-height: 21.6px;
+	height: 21.6px;
+	margin-top:10px;
+	font-size: 12px;
+	color: #fff;
+}
+#footer-ad{
+	height: 27px;
+	text-align: center;
+	line-height: 27px;
+	font-size: 12px;
+	color: #fff;
+	margin-top: 10px;
+
+}
+#ad{
+	font-size: 15px;
+	color: #fff;
+}
+
+
+/******************footer结束********************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
